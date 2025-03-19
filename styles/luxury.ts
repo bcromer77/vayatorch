@@ -3,6 +3,7 @@ export const luxuryPalette = {
   secondary: "#C0C0C0", // Silver
   accent: "#8B0000", // Dark Red
   cardBg: "#F5F5DC", // Beige-like luxury background
+  border: "rgba(255, 255, 255, 0.2)", // Soft white border
 };
 
 export const luxuryGradients = {
