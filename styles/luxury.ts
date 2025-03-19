@@ -5,6 +5,7 @@ export const luxuryPalette = {
   cardBg: "#F5F5DC", // Beige-like luxury background
   border: "rgba(255, 255, 255, 0.2)", // Soft white border
   text: "#000", // Black text
+  textMuted: "rgba(0, 0, 0, 0.5)", // Muted text color (grayish)
 };
 
 export const luxuryGradients = {
